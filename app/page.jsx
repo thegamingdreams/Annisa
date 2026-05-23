@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { motion } from "framer-motion";
 import { Phone, Sparkles, Leaf, Star, CheckCircle, CalendarDays } from "lucide-react";
