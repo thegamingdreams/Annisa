@@ -71,7 +71,7 @@ export default function AnnisaAestheticsWebsite() {
               </div>
               <h1 className="font-serif text-6xl leading-[0.95] tracking-wide text-amber-100 sm:text-7xl lg:text-8xl">Annisa</h1>
               <h2 className="mt-4 text-2xl font-light uppercase tracking-[0.38em] text-amber-100/80 sm:text-3xl">Skin Care & Facials</h2>
-              <p className="mt-7 max-w-2xl text-lg leading-8 text-[#f7e7d6]/80">Luxury facials, brow services, and Korean lash lifts designed to make every client feel fresh, confident, and naturally beautiful.</p>
+              <p className="mt-7 max-w-2xl text-lg leading-8 text-[#f7e7d6]/80">Luxury facials, brow services, and Korean lash lifts designed to make every client feel fresh, confident, and naturally beautiful. Annisa provides private at-home beauty appointments in a clean, comfortable home studio setting.</p>
               <div className="mt-9 flex flex-col gap-4 sm:flex-row">
                 <a href="tel:4799739267" className="inline-flex items-center justify-center gap-3 rounded-full bg-amber-200 px-7 py-4 text-base font-bold text-[#3b2418] shadow-xl shadow-black/30 transition hover:scale-[1.02]">
                   <Phone className="h-5 w-5" /> (479) 973-9267
@@ -134,7 +134,7 @@ export default function AnnisaAestheticsWebsite() {
         <div className="relative mx-auto max-w-5xl rounded-[3rem] border border-amber-200/20 bg-white/5 p-8 text-center shadow-2xl shadow-black/30 backdrop-blur-xl sm:p-12">
           <CalendarDays className="mx-auto h-12 w-12 text-amber-200" />
           <h2 className="mt-5 font-serif text-5xl text-amber-100">Book Your Glow</h2>
-          <p className="mx-auto mt-4 max-w-2xl text-lg text-[#f7e7d6]/80">Call, text, or message on Instagram to ask about availability and appointments.</p>
+          <p className="mx-auto mt-4 max-w-2xl text-lg text-[#f7e7d6]/80">Call, text, or message on Instagram to ask about availability and appointments. Services are provided from a private home studio for a calm and personalized experience.</p>
           <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
             <a href="tel:4799739267" className="rounded-full bg-amber-200 px-8 py-4 text-lg font-bold text-[#3b2418]">Call / Text: (479) 973-9267</a>
             <a href="https://instagram.com/annisa_aesthetics" className="rounded-full border border-amber-200/30 px-8 py-4 text-lg font-bold text-amber-100">Instagram</a>
