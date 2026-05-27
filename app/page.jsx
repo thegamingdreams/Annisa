@@ -139,7 +139,6 @@ export default function AnnisaAestheticsWebsite() {
             <a href="tel:4799739267" className="rounded-full bg-amber-200 px-8 py-4 text-lg font-bold text-[#3b2418]">Call / Text: (479) 973-9267</a>
             <a href="https://instagram.com/annisa_aesthetics" className="rounded-full border border-amber-200/30 px-8 py-4 text-lg font-bold text-amber-100">Instagram</a>
           </div>
-          <p className="mt-7 text-sm text-amber-100/60">3138 NW Expressway, 73112</p>
         </div>
       </section>
     </main>
